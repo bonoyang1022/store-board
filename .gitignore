@@ -1,0 +1,9 @@
+# 只推 index.html（线上版看板，图标已嵌入）到 GitHub Pages
+# 其他所有文件都不推
+
+# 排除所有
+*
+
+# 只包含这些
+!index.html
+!.gitignore
